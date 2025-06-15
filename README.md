@@ -1,1 +1,1 @@
-# ADI-["bozkurt.hazarr","bozkurt.hazarr","bozkurt.hazarr","bozkurt.hazarr","bozkurt.hazarr"].
+# ADI-https://cdn.jsdelivr.net/gh/hazarbozkurt/aeroinsta/onaylilar.json
